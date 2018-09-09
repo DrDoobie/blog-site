@@ -1,2 +1,2 @@
 # DrDoobie.github.io
-Repository for BuzzWeed website
+Repository for BuzzWeed website.
